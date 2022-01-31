@@ -4,5 +4,5 @@ documentation to be added soon
 
 don't forget to add wireframe
 
-![](HW1_wireframe.jpg)
+![](wireframe.jpg)
 
